@@ -29,22 +29,26 @@ Me concernant, je suis passionné de [jeu de rôle](https://fr.wikipedia.org/wik
 
 ### **EXPÉRIENCES**
 ---
-##### 2018 – 2022 | Technicien Helpdesk N1+ ECONOCOM | ST HERBLAIN
-# 
->_Réception demandes et incidents par téléphone et/ou outils de ticketing
-Appels sortants vers les utilisateurs Résolution et suivi des incidents conformément aux SLA
-Escalade des incidents vers le niveau 2 et 3 ou vers les services concernés Rédaction de procédure technique Gestion Active Directory
-Utilisation, dépannage et administration de la suite Office 365
-Utilisation console SCCM
-Formation des nouveaux arrivants
-Assister et répondre aux questions des collaborateurs
-Tâches transverses et prise en charge des incidents les plus délicats_
+#### 2018 – 2022 | Technicien Helpdesk N1+ ECONOCOM | ST HERBLAIN
+ 
+>_Réception demandes et incidents par téléphone et/ou outils de ticketing  
+Appels sortants vers les utilisateurs  
+Résolution et suivi des incidents conformément aux SLA  
+Escalade des incidents vers le niveau 2 et 3 ou vers les services concernés  
+Rédaction de procédure technique  
+Gestion Active Directory  
+Utilisation, dépannage et administration de la suite Office 365  
+Utilisation console SCCM  
+Formation des nouveaux arrivants  
+Assister et répondre aux questions des collaborateurs  
+Tâches transverses et prise en charge des incidents les plus délicats_  
 
-##### 03/2017 – 09/2017 | Technicien Support Informatique Garanka | Nantes
-#
->_Réception demandes et appels utilisateurs 
-Gestion des utilisateurs Active Directory (création, modification, suppression) 
-Gestion et suivi du matériel utilisateurs (Préparation, commande, expédition, retour, SAV)
+#### 03/2017 – 09/2017 | Technicien Support Informatique Garanka | Nantes
+
+>_Réception demandes et appels utilisateurs  
+Gestion des utilisateurs Active Directory (création, modification, suppression)  
+Gestion droits et groupes Active Directory  
+Gestion et suivi du matériel utilisateurs (Préparation, commande, expédition, retour, SAV)  
 Création de fiches de procédures pour utilisateurs et techniciens_
 
 ### **CURSUS**
